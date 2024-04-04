@@ -1,0 +1,1 @@
+Welcome to the House Sales Dashboard created using Tableau! This dashboard is designed to provide comprehensive insights into house sales data, enabling users to visualize trends, patterns, and key metrics related to house sales.
